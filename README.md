@@ -9,13 +9,13 @@ Throughout the course, there were six laboratories, each covering essential topi
 In this lab, I learned about Class-Responsibility-Collaboration (CRC) cards, a technique used to identify and organize classes, responsibilities, and collaborations in a software system. I also gained knowledge of Unified Modeling Language (UML) diagrams to visualize and document class relationships.
 
 1. [Making Changes to the Application](lab2)
-This lab focused on making changes to existing code without introducing bugs or breaking the functionality of the application. I delved into version control systems, code review practices, and managing codebase changes.
+This lab focused on making changes to existing code without introducing bugs or breaking the functionality of the application. The lab included: adding new functionalities, extending GUI elements and others.
 
 1. [Refactoring](lab3)
 In this lab, I explored the concept of refactoring, which involves improving the design and structure of code without changing its external behavior. I learned common refactoring techniques to make code more maintainable and easier to understand.
 
 1. [Unit Tests](lab4)
-Unit testing is a critical aspect of software development. In this lab, I learned how to write unit tests to ensure the correctness of individual units (e.g., methods, functions) of my code. Topics covered included test-driven development (TDD) and testing frameworks.
+Unit testing is a critical aspect of software development. In this lab, I learned how to write unit tests to ensure the correctness of individual units (e.g., methods, functions) of my code. Topics covered included test-driven development (TDD) and testing frameworks (JUnit and Mockito).
 
 1. [Design Patterns I](lab5)
 Design patterns are essential for creating flexible and reusable software designs. In this lab, I studied the following design patterns:
